@@ -17,6 +17,7 @@
     "express-formidable": "^1.0.0",
     "express-session": "^1.15.6",
     "express-winston": "^2.5.0",
+    "highlight.js": "^9.12.0",
     "marked": "^0.3.17",
     "moment": "^2.21.0",
     "mongolass": "^4.1.3",
