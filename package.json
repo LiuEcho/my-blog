@@ -4,6 +4,7 @@
   "description": "blog",
   "main": "index.js",
   "scripts": {
+    "start": "supervisor index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "liuecho",
